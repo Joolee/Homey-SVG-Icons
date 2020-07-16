@@ -4,3 +4,4 @@ SVG versions (approximations) of default Homey icons
 | ------------- | :--: |
 | measure_co    | <img src="measure_co.svg" width="200"> |
 | measure_co2   | <img src="measure_co2.svg" width="200"> |
+| measure_luminance   | <img src="measure_luminance.svg" width="200"> |
