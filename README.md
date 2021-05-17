@@ -14,6 +14,11 @@ Modified icons for custom capabilities and devices
 | [measure_eco2](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_eco2.json)    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icons/eco2.svg" width="200"> |
 | [measure_tvoc](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_eco2.json)    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icons/tvoc.svg" width="200"> |
 | Gasses    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gasses/assets/icon.svg" width="200"> |
+| Alarm Generic	| <img src="alarm_generic.svg" width="200"> |
+
+Other custom icons
+| Name    | Icon |
+| ------------- | :--: |
 | Output Boolean    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gpio_output_bool/assets/icon.svg" width="200"> |
 | Output Pulse    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gpio_output_pulse/assets/icon.svg" width="200"> |
 | Output PWM    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gpio_output_pwm/assets/icon.svg" width="200"> |
@@ -23,10 +28,6 @@ Modified icons for custom capabilities and devices
 | Input Switch    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/input_switch/assets/icon.svg" width="200"> |
 | P1 meter    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/p1/assets/icon.svg" width="200"> |
 | Pulse counter    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/pulse_counter/assets/icon.svg" width="200"> |
-
-Other custom icons
-| Name    | Icon |
-| ------------- | :--: |
 | unknown    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icons/unknown.svg" width="200"> |
 | ESP Easy    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icon.svg" width="200"> |
 | ESP Easy color    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/images/logo.svg" width="200"> |
