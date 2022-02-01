@@ -17,6 +17,7 @@ Modified icons for custom capabilities and devices
 | [measure_dust](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_dust.json)    | <img src="measure_dust.svg" width="200"> |
 | [measure_pm1](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm1.json)    | <img src="measure_pm1.svg" width="200"> |
 | [measure_pm10](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm10.json)    | <img src="measure_pm10.svg" width="200"> |
+| [measure_pm10](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm10.json)    | <img src="measure_pm10.svg" width="200"> |
 | Gasses    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gasses/assets/icon.svg" width="200"> |
 | Alarm Generic	| <img src="alarm_generic.svg" width="200"> |
 
@@ -32,6 +33,10 @@ Other custom icons
 | Input Switch    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/input_switch/assets/icon.svg" width="200"> |
 | P1 meter    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/p1/assets/icon.svg" width="200"> |
 | Pulse counter    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/pulse_counter/assets/icon.svg" width="200"> |
+| [measure_distance_mm](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_distance_mm.json)    | <img src="measure_distance_mm.svg" width="200"> |
+| [measure_distance_cm](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_distance_cm.json)    | <img src="measure_distance_cm.svg" width="200"> |
+| [measure_distance_cm](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_distance_inch.json)    | <img src="measure_distance_inch.svg" width="200"> |
+| Distance    | <img src="measure_distance.svg" width="200"> |
 | unknown    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icons/unknown.svg" width="200"> |
 | ESP Easy    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icon.svg" width="200"> |
 | ESP Easy color    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/images/logo.svg" width="200"> |
