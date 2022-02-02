@@ -18,6 +18,9 @@ Modified icons for custom capabilities and devices
 | [measure_pm1](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm1.json)    | <img src="measure_pm1.svg" width="200"> |
 | [measure_pm10](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm10.json)    | <img src="measure_pm10.svg" width="200"> |
 | [measure_pm10](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_pm10.json)    | <img src="measure_pm10.svg" width="200"> |
+| [measure_luminance_full](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_luminance_full.json)    | <img src="measure_luminance_full.svg" width="200"> |
+| [measure_luminance_visible](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_luminance_visible.json)    | <img src="measure_luminance_visible.svg" width="200"> |
+| [measure_luminance_ir](https://github.com/Joolee/nl.joolee.homey.espeasy/blob/master/.homeycompose/capabilities/measure_luminance_ir.json)    | <img src="measure_luminance_ir.svg" width="200"> |
 | Gasses    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/drivers/gasses/assets/icon.svg" width="200"> |
 | Alarm Generic	| <img src="alarm_generic.svg" width="200"> |
 
