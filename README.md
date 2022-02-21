@@ -1,3 +1,23 @@
+# Great icon sources:
+https://materialdesignicons.com/
+https://thenounproject.com/
+https://github.com/athombv/homey-vectors-public
+
+# Tools:
+https://svg-path-visualizer.netlify.app/
+https://cloudconvert.com/svg-to-png
+(For making store images. Upload twice and use settings: 75x75 and 500x500)
+
+## Extract SVG from Homey
+1. Get the icon on screen in https://my.homey.app
+2. Right click -> Inspect
+3. Copy the large text 'url' from the --data CSS property
+4. Enter the blob on https://base64.guru/converter/decode
+5. Remove the `data:image/svg+xml;base64,` from the fron of the blob
+6. Click convert
+7. Save output in a .svg file
+8. Change the 'fill' attribute from `#313132` to `black`
+
 # Homey-SVG-Icons
 SVG versions (approximations) of default Homey icons
 | Capability    | Icon |
@@ -43,6 +63,3 @@ Other custom icons
 | unknown    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icons/unknown.svg" width="200"> |
 | ESP Easy    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/icon.svg" width="200"> |
 | ESP Easy color    | <img src="https://github.com/Joolee/nl.joolee.homey.espeasy/raw/master/assets/images/logo.svg" width="200"> |
-
-# Tools:
-https://svg-path-visualizer.netlify.app/
