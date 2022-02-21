@@ -1,6 +1,7 @@
 # Great icon sources:
 https://materialdesignicons.com/
 https://thenounproject.com/
+https://www.flaticon.com/
 https://github.com/athombv/homey-vectors-public
 
 # Tools:
