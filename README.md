@@ -18,6 +18,12 @@ https://cloudconvert.com/svg-to-png
 7. Save output in a .svg file
 8. Change the 'fill' attribute from `#313132` to `black`
 
+# Tips
+## Transparency
+Homey converts anything not-transparent to black. White backgrounds therefore turn black when shown in Homey.
+The keyword 'transparent' _is_ supported by Homey but not all tools support it. Better is to use: `fill="none" fill-opacity="0"` for compatibility.
+
+
 # Homey-SVG-Icons
 SVG versions (approximations) of default Homey icons
 | Capability    | Icon |

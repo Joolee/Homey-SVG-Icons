@@ -2,12 +2,12 @@
 <svg version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
 	<!-- https://github.com/Joolee/Homey-SVG-Icons -->
 
-    <path stroke="black" stroke-width="3" fill="transparent" stroke-linecap="round"
+    <path stroke="black" stroke-width="3" fill="none" fill-opacity="0" stroke-linecap="round"
      d="M 50 18
         C 50 35, 71 45, 71 60
         C 71 89, 29 89, 29 60
         C 29 45, 50 35, 50 18
 	"/>
 
-	<path stroke="black" stroke-width="3" fill="transparent" stroke-linecap="round" d="M 54 44 Q 58 48, 61 53"/>
+	<path stroke="black" stroke-width="3" fill="none" fill-opacity="0" stroke-linecap="round" d="M 54 44 Q 58 48, 61 53"/>
 </svg>
